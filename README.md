@@ -13,7 +13,7 @@ Describe what your project is about and what it does
 bikeshare.py is used in this project.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Sources: https://knowledge.udacity.com/?nanodegree=nd104-ent&page=1&project=328&rubric=1379
 
 ### FAQ
 Can I select more than one city at a time?
