@@ -15,3 +15,6 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### FAQ
+Can I select more than one city at a time?
+  - No, you must restart the program everytime you would like to change city.
